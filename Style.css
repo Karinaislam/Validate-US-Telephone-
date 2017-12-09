@@ -1,0 +1,19 @@
+.topHead{
+	width: 100%;
+	height: 100px;
+	background-color: #06284c;
+	border-bottom: 10px solid #cc3333;
+	text-align: center;
+	padding-top: 50px;
+	color: white;
+}
+
+.header{
+	text-align: center;
+	padding-top: 50px;
+}
+
+#result{
+	font-weight:normal; 
+	padding-top: 30px;
+}
